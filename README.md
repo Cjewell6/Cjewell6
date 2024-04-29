@@ -1,13 +1,15 @@
 ## About
 
-I’m a mathematics and computer science professor at Albion College. My scholarship focuses on the applications of mathematics and computer science to art and I frequently give talks at professional conferences and write about related topics. I am also an artist. I use a wide variety of media and incorporate mathematical elements such as symmetry, geometry, and number in my art. My work is frequently included in juried art exhibitions. You can see and read about my artwork on my website [drMathArt.com](http://drmathart.com).
+ Mynameis Chalondra Jewell, I am studying Computer Science and a minor in geology at Albion College with a
+ solid foundation in Python, HTML, and CSS. I have a lot of lifeguarding experience at multiple locations. Outside
+ of my major in computer science, I work on art in many different forms. In my involvement at Albion College, I am
+ the Engagements Chair in the student senate, fostering a collaborative environment. I am also on the swim team at
+ Albion College. I've had to honor to be recognized with awards like the Midnight Golf Award and the MLK Jr.
+ Memorial Scholarship.
 
 ### Social Media, etc
 
-- [Twitter: @drMathArt](https://twitter.com/drMathArt)
-- [Mastodon: mathstodon.xyz/@drMathArt](https://mathstodon.xyz/@drMathArt)
-- [LinkedIn](http://www.linkedin.com/pub/david-reimann/3a/208/158)
-- [Google Scholar](http://scholar.google.com/citations?user=XYboNJYAAAAJ)
-- [drMathArt.com](http://drmathart.com)
-- [zeta.albion.edu/~dreimann/](http://zeta.albion.edu/~dreimann/)
-- [https://drmathart.github.io/drMathArt/](https://drmathart.github.io/drMathArt/)
+
+- [LinkedIn](www.linkedin.com/in/chalondra-jewell-5a6392210)
+- [Instagram](https://www.instagram.com/jewell.c_j/)
+
